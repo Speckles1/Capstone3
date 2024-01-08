@@ -7,7 +7,7 @@ export default authMiddleware({
     '/categories',
     '/Chatbot',
     '/chatpage',
-    '/models',
+    '/ar',
     '/products',
     '/search',
     '/api/products',

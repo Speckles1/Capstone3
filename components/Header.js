@@ -105,7 +105,7 @@ export default function Header() {
             <NavLink href={'/categories'}>Categories</NavLink>
             <NavLink href={'/account'}>Account</NavLink>
             <NavLink href={'/cart'}>Cart </NavLink>
-            <NavLink href={'/models'}> AR </NavLink>
+            <NavLink href={'/ar'}> AR </NavLink>
             <NavLink href={'/chatpage'}>Chat</NavLink>
           </StyledNav>
           <SideIcons>
